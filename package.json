@@ -1,6 +1,6 @@
 {
   "name": "NotesApp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -40,5 +40,5 @@
     "jest": "^27.3.1",
     "ts-jest": "^27.0.7"
   },
-  "description": "An Ionic project"
+  "description": "An app that helps you keep track of your ToDo Items"
 }
